@@ -1,9 +1,10 @@
 /******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
-C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
-Code, Compile, Run and Debug online from anywhere in world.
+				REPORT
+THE PROBLEM GIVEN HERE IS BASED UPON ASCII VALUE.
+BASICALLY, THIS IS A CASE SENSITIVE PROGRAM.
+THE CODE DEVELOPED HERE GETS THE INPUT STRING.
+IT COUNTS THE NO OF INDIVIDUAL CHARACTERS IN THE STRING.
+THAT IS IT LOWER CASE AND UPPER CASE SEPERATELY FOR A CHARACTER.
 
 *******************************************************************************/
 #include <stdio.h>
