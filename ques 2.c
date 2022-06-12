@@ -1,9 +1,11 @@
 /******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
+				REPORT
+THE PROBLEM GIVEN HERE IS BASED UPON ASCII VALUE.
+BASICALLY, THIS IS A CASE IN SENSITIVE PROGRAM.
+THE CODE DEVELOPED HERE GETS THE INPUT STRING. 
+IT REMOVES THE DUPLIOCATE CHARACTER IN THE STRING IRRESPECTIVE OF CASE. 
+THAT IS IT DOESNOT DIFFERENTLOWER CASE AND UPPERCASE.
+SO, IT PRINTS THE LOWER CASE OF A CHARACTER ONLY.
 
 *******************************************************************************/
 #include <stdio.h>
